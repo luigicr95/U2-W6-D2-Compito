@@ -1,9 +1,8 @@
 .container {
-  max-width: 992px;
+  max-width: 768px;
   padding: 0;
 }
 
-.card {
+.border-none-card {
   border: none;
-  padding-top: 50px;
 }
